@@ -11,7 +11,7 @@
 }
 
 .pawprint{
-    position: fixed;
+    position: fixed; /*this is a third comment*/
     top: 45px;
     left: 66px;
 }
