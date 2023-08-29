@@ -23,6 +23,6 @@
 
 
 .top-hat{
-    position: absolute;
+    position: absolute; /*comment test*/
     z-index: 2;
 }
